@@ -67,7 +67,10 @@ myTDMData <- TermDocumentMatrix(myMainCleanData)
   * Find words associated with "???" based on a given correlation of ??%
   * Calculate the frequency of words and create word cloud based on those frequencies. 
 
-![wordcloud](images/01_WC.jpg)
+
+<p align="center">
+  <img src="https://github.com/AnahitaS/Text_sentiment_analysis_R/blob/main/images/01_WC.jpg" alt="WordCloud" width="600"/>
+</p>
 
 
 

@@ -18,4 +18,5 @@ I conduct the text analysis in 5 main steps:
   * Find words associated with "???" based on a given correlation of 90%
   * Calculate the frequency of words and create word cloud based on those frequencies. 
 
+![wordcloud](images/01_WC.jpg)
 

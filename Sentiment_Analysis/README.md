@@ -7,8 +7,8 @@ It allows businesses to identify customer sentiment toward products, brands or s
 </p>
 
 For my porject I conduct two different sentiment analysis:
-- [Part 1 Structured Data](https://github.com/AnahitaS/Text_sentiment_analysis_R/tree/main/Text_Analysis): is about text analysis including text pre-processing, removing stop words, stemming, calculating word frequencies, word associations, and visualizing data by creating wordclouds.
-- [Part 2 Unstructured Data](https://github.com/AnahitaS/Text_sentiment_analysis_R/tree/main/Text_Analysis): In Part 2 I focus on sentiment analysis. I will conduct sentiment analysis both for structured data (e.g., Twitter data) and unstrcutured data (raw text files).
+- [Part 1 Structured Data](https://github.com/AnahitaS/Text_sentiment_analysis_R/tree/main/Text_Analysis): I use twitter data in two .csv files.
+- [Part 2 Unstructured Data](https://github.com/AnahitaS/Text_sentiment_analysis_R/tree/main/Text_Analysis): I use the contnet of three txt files. 
 <p align="center">
   <img src="https://github.com/AnahitaS/Text_sentiment_analysis_R/blob/main/images/03_SA2.jpg" alt="WordCloud" width="300"/>
 </p>

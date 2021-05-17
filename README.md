@@ -1,5 +1,5 @@
 # Text and Sentiment Analysis Using R
-In this project we use R to conduct text and sentiment analysis. The project has two main parts. Part 1 is about text analysis and in Part 2 I focus on sentiment analysis.
+In this project we use R to conduct text and sentiment analysis. The project has two main parts. Part 1 is about text analysis (calculating word frequencies, word associations,  and in Part 2 I focus on sentiment analysis.
 ## Part 1 Text Analysis with R
 I conduct the text analysis in 5 main steps:
 - **Step 0:** Read data from website or file.
@@ -19,4 +19,6 @@ I conduct the text analysis in 5 main steps:
   * Calculate the frequency of words and create word cloud based on those frequencies. 
 
 ![wordcloud](images/01_WC.jpg)
+
+## Part 2: Sentiment Analysis Using R
 

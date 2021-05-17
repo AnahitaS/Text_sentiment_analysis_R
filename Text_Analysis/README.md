@@ -1,6 +1,6 @@
 # Text Analysis with R
 I conduct the text analysis in 5 main steps:
-- **Step 0:** Read data from website or file.
+- **Step 0:** Installing required packages & Read data from website or file.
 ~~~~
 install.packages("tm")
 install.packages("SnowballC")
